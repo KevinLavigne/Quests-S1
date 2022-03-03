@@ -1,0 +1,37 @@
+body {
+  background-image: url("assets/bicoloreBody.png");
+  background-repeat: repeat-y;
+  background-size: cover;
+  background-position: center;
+}
+
+#flex {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+h1 {
+  height: 100px;
+  text-align: center;
+}
+.t4 {
+  font-size: 4vh;
+}
+ul li {
+  list-style-position: inside;
+  list-style-image: url("assets/button.png");
+  font-family: "Cortinthia", cursive;
+}
+.center {
+  text-align: center;
+  color: red;
+  font-style: italic;
+  font-size: 6vh;
+}
+h2 {
+  text-align: center;
+  color: red;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}

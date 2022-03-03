@@ -1,0 +1,80 @@
+body {
+  background-color: yellow;
+  font-family: "Roboto", sans-serif;
+}
+.button {
+  list-style-image: url("assets/button.png");
+  list-style-position: inside;
+}
+.home {
+  list-style-image: url("assets/Colchis_Logo.png");
+  list-style-position: inside;
+}
+#flex {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.center {
+  text-align: center;
+  color: red;
+  font-style: italic;
+}
+#welcome {
+  height: 400px;
+  background-image: url("assets/Colchis_kingdome.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.t3 {
+  font-size: 3vh;
+}
+.t4 {
+  font-size: 4vh;
+}
+.t5 {
+  font-size: 5vh;
+}
+#flexbox {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  font-size: 4vh;
+  color: blueviolet;
+  font-family: "Roboto", italic;
+}
+td {
+  border: 1px solid black;
+}
+#intro {
+  height: 150px;
+}
+.Msg {
+  width: 700px;
+  height: 300px;
+}
+.input {
+  width: 700px;
+}
+.left {
+  text-align: left;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+}
+h2 {
+  font-family: "Luxurious Script", cursive;
+  font-size: 4vh;
+}
+.flex_center {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  text-align: center;
+  color: red;
+  font-style: italic;
+}

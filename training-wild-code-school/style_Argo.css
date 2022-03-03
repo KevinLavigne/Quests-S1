@@ -1,0 +1,75 @@
+body {
+  background-color: cadetblue;
+}
+.center {
+  text-align: center;
+  color: red;
+  font-style: italic;
+}
+#welcome {
+  height: 400px;
+  background-image: url("assets/bakcground2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.t3 {
+  font-size: 3vh;
+}
+.t5 {
+  font-size: 5vh;
+}
+.t4 {
+  font-size: 4vh;
+}
+#heroes {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+#intro {
+  height: 150px;
+}
+#flex {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  font-size: 4vh;
+  color: blueviolet;
+  font-family: "Roboto", italic;
+}
+td {
+  border: 1px solid black;
+}
+.Msg {
+  width: 700px;
+  height: 300px;
+}
+.button {
+  list-style-image: url("assets/button.png");
+  list-style-position: inside;
+}
+.home {
+  list-style-image: url("assets/Argo_Logo_icon.png");
+  list-style-position: inside;
+}
+#left {
+  text-align: left;
+}
+.input {
+  width: 700px;
+}
+.flex_center {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  text-align: center;
+  color: red;
+  font-style: italic;
+}
+
+font-family: "Roboto", sans-serif;
+font-family: "Corinthia", cursive;
