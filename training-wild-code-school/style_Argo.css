@@ -1,5 +1,5 @@
 body {
-  background-color: cadetblue;
+  background-color: #5F9EA0;
   font-family: "Roboto", sans-serif;
 }
 .center {
@@ -11,7 +11,6 @@ body {
   height: 400px;
   background-image: url("assets/bakcground2.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
   background-position: center;
 }
 .t3 {
